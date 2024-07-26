@@ -1,0 +1,20 @@
+{
+  "name": "typescript-analyzer",
+  "version": "1.0.0",
+  "description": "This is a utility project that helps me analyze the results of a TypeScript performance trace",
+  "main": "analyzer.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "analyzer",
+    "tools"
+  ],
+  "author": "nathan@telefrek.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.12"
+  }
+}
